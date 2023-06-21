@@ -14,7 +14,7 @@ check.addEventListener ("click",function () {
          output.style.color= "#00ff38"
        } else {
          output.innerHTML = "Rejected 😔";
-         output.style.color= "red"
+         output.style.color= "Red"
        }
     } else {
       output.innerHTML = "find a job first😒"
