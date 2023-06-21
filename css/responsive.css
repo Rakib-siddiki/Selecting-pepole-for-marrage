@@ -1,0 +1,8 @@
+body{
+    overflow-x: hidden;
+}
+@media (max-width: 992px) { .selecting {
+	width: 100%;
+	margin: 200px auto 0;
+} }
+
